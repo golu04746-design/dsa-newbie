@@ -8,3 +8,6 @@ All solved problems organized by pattern/category.
 
 ## Dynamic Programming
 - [Jump Game](./LeetCode/Medium/Jump%20Game) - *Medium*
+
+## Stack
+- [Valid Parentheses](./LeetCode/Easy/Valid%20Parentheses) - *Easy*
