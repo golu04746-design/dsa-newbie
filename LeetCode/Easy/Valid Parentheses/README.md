@@ -9,7 +9,7 @@
 | **Tags** | String, Stack, Bracket Sequences |
 | **Link** | [View Problem](https://leetcode.com/problems/valid-parentheses/) |
 | **Runtime** | 0 ms |
-| **Memory** | 7.8 MB |
+| **Memory** | 9 MB |
 
 ## Problem Description
 
