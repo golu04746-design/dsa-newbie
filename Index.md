@@ -10,6 +10,7 @@ All solved problems organized by pattern/category.
 - [Jump Game](./LeetCode/Medium/Jump%20Game) - *Medium*
 
 ## Stack
+- [Baseball Game](./LeetCode/Easy/Baseball%20Game) - *Easy*
 - [Valid Parentheses](./LeetCode/Easy/Valid%20Parentheses) - *Easy*
 
 ## Arrays & Hashing
