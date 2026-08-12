@@ -8,8 +8,12 @@
 | **Solved On** | August 12, 2026 |
 | **Tags** | Array, Greedy, Sorting |
 | **Link** | [View Problem](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/) |
-| **Runtime** | 11 ms |
-| **Memory** | 14.4 MB |
+| **Runtime** | 0 ms |
+| **Memory** | 8.4 MB |
+
+## Approach
+
+greatest of all time (love by manish)
 
 ## Problem Description
 
