@@ -19,4 +19,5 @@ All solved problems organized by pattern/category.
 - [Smallest Missing Integer Greater Than Sequential Prefix Sum](./LeetCode/Easy/Smallest%20Missing%20Integer%20Greater%20Than%20Sequential%20Prefix%20Sum) - *Easy*
 
 ## Greedy
+- [Minimum Subsequence in Non-Increasing Order](./LeetCode/Easy/Minimum%20Subsequence%20in%20Non-Increasing%20Order) - *Easy*
 - [Maximize Sum Of Array After K Negations](./LeetCode/Easy/Maximize%20Sum%20Of%20Array%20After%20K%20Negations) - *Easy*
