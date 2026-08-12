@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Sliding Window
+- [Length of Longest Subarray With at Most K Frequency](./LeetCode/Medium/Length%20of%20Longest%20Subarray%20With%20at%20Most%20K%20Frequency) - *Medium*
 - [Maximum Average Subarray I](./LeetCode/Easy/Maximum%20Average%20Subarray%20I) - *Easy*
 
 ## Dynamic Programming
