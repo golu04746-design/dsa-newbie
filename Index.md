@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Sliding Window
+- [Maximum Length Substring With Two Occurrences](./LeetCode/Easy/Maximum%20Length%20Substring%20With%20Two%20Occurrences) - *Easy*
 - [Maximum Points You Can Obtain from Cards](./LeetCode/Medium/Maximum%20Points%20You%20Can%20Obtain%20from%20Cards) - *Medium*
 - [Length of Longest Subarray With at Most K Frequency](./LeetCode/Medium/Length%20of%20Longest%20Subarray%20With%20at%20Most%20K%20Frequency) - *Medium*
 - [Maximum Average Subarray I](./LeetCode/Easy/Maximum%20Average%20Subarray%20I) - *Easy*
