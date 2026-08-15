@@ -26,3 +26,6 @@ All solved problems organized by pattern/category.
 
 ## Uncategorized
 - [Product of Array Except Self](./LeetCode/Medium/Product%20of%20Array%20Except%20Self) - *Medium*
+
+## Bit Manipulation
+- [Longest Subsequence With Non-Zero Bitwise XOR](./LeetCode/Medium/Longest%20Subsequence%20With%20Non-Zero%20Bitwise%20XOR) - *Medium*
