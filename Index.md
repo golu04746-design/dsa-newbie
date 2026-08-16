@@ -13,6 +13,7 @@ All solved problems organized by pattern/category.
 - [Jump Game](./LeetCode/Medium/Jump%20Game) - *Medium*
 
 ## Stack
+- [Asteroid Collision](./LeetCode/Medium/Asteroid%20Collision) - *Medium*
 - [Backspace String Compare](./LeetCode/Easy/Backspace%20String%20Compare) - *Easy*
 - [Baseball Game](./LeetCode/Easy/Baseball%20Game) - *Easy*
 - [Valid Parentheses](./LeetCode/Easy/Valid%20Parentheses) - *Easy*
