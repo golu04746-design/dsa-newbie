@@ -29,6 +29,7 @@ All solved problems organized by pattern/category.
 - [Maximize Sum Of Array After K Negations](./LeetCode/Easy/Maximize%20Sum%20Of%20Array%20After%20K%20Negations) - *Easy*
 
 ## Uncategorized
+- [Swap Sex of Employees](./LeetCode/Easy/Swap%20Sex%20of%20Employees) - *Easy*
 - [Actors and Directors Who Cooperated At Least Three Times](./LeetCode/Easy/Actors%20and%20Directors%20Who%20Cooperated%20At%20Least%20Three%20Times) - *Easy*
 - [Sales Person](./LeetCode/Easy/Sales%20Person) - *Easy*
 - [Product of Array Except Self](./LeetCode/Medium/Product%20of%20Array%20Except%20Self) - *Medium*
