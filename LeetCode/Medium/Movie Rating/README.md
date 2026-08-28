@@ -8,7 +8,7 @@
 | **Solved On** | August 28, 2026 |
 | **Tags** | Database |
 | **Link** | [View Problem](https://leetcode.com/problems/movie-rating/) |
-| **Runtime** | 1266 ms |
+| **Runtime** | 143 ms |
 | **Memory** | 0B |
 
 ## Problem Description
