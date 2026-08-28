@@ -29,6 +29,7 @@ All solved problems organized by pattern/category.
 - [Maximize Sum Of Array After K Negations](./LeetCode/Easy/Maximize%20Sum%20Of%20Array%20After%20K%20Negations) - *Easy*
 
 ## Uncategorized
+- [Find the Index of the First Occurrence in a String](./LeetCode/Easy/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String) - *Easy*
 - [Swap Sex of Employees](./LeetCode/Easy/Swap%20Sex%20of%20Employees) - *Easy*
 - [Actors and Directors Who Cooperated At Least Three Times](./LeetCode/Easy/Actors%20and%20Directors%20Who%20Cooperated%20At%20Least%20Three%20Times) - *Easy*
 - [Sales Person](./LeetCode/Easy/Sales%20Person) - *Easy*
