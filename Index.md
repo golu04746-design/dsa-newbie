@@ -20,6 +20,7 @@ All solved problems organized by pattern/category.
 - [Valid Parentheses](./LeetCode/Easy/Valid%20Parentheses) - *Easy*
 
 ## Arrays & Hashing
+- [Find the Duplicate Number](./LeetCode/Medium/Find%20the%20Duplicate%20Number) - *Medium*
 - [Keyboard Row](./LeetCode/Easy/Keyboard%20Row) - *Easy*
 - [Smallest Missing Integer Greater Than Sequential Prefix Sum](./LeetCode/Easy/Smallest%20Missing%20Integer%20Greater%20Than%20Sequential%20Prefix%20Sum) - *Easy*
 
