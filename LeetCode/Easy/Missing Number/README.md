@@ -9,7 +9,7 @@
 | **Tags** | Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting |
 | **Link** | [View Problem](https://leetcode.com/problems/missing-number/) |
 | **Runtime** | 0 ms |
-| **Memory** | 8.2 MB |
+| **Memory** | 8.3 MB |
 
 ## Problem Description
 
