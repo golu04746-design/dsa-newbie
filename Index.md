@@ -13,6 +13,7 @@ All solved problems organized by pattern/category.
 - [Jump Game](./LeetCode/Medium/Jump%20Game) - *Medium*
 
 ## Stack
+- [Minimum Add to Make Parentheses Valid](./LeetCode/Medium/Minimum%20Add%20to%20Make%20Parentheses%20Valid) - *Medium*
 - [Remove K Digits](./LeetCode/Medium/Remove%20K%20Digits) - *Medium*
 - [Asteroid Collision](./LeetCode/Medium/Asteroid%20Collision) - *Medium*
 - [Backspace String Compare](./LeetCode/Easy/Backspace%20String%20Compare) - *Easy*
