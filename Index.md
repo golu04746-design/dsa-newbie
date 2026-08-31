@@ -25,6 +25,7 @@ All solved problems organized by pattern/category.
 - [Smallest Missing Integer Greater Than Sequential Prefix Sum](./LeetCode/Easy/Smallest%20Missing%20Integer%20Greater%20Than%20Sequential%20Prefix%20Sum) - *Easy*
 
 ## Greedy
+- [Minimum Number of Arrows to Burst Balloons](./LeetCode/Medium/Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons) - *Medium*
 - [Removing Minimum and Maximum From Array](./LeetCode/Medium/Removing%20Minimum%20and%20Maximum%20From%20Array) - *Medium*
 - [Merge Intervals](./LeetCode/Medium/Merge%20Intervals) - *Medium*
 - [Minimum Subsequence in Non-Increasing Order](./LeetCode/Easy/Minimum%20Subsequence%20in%20Non-Increasing%20Order) - *Easy*
