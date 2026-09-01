@@ -33,6 +33,7 @@ All solved problems organized by pattern/category.
 - [Maximize Sum Of Array After K Negations](./LeetCode/Easy/Maximize%20Sum%20Of%20Array%20After%20K%20Negations) - *Easy*
 
 ## Uncategorized
+- [Duplicate Emails](./LeetCode/Easy/Duplicate%20Emails) - *Easy*
 - [Movie Rating](./LeetCode/Medium/Movie%20Rating) - *Medium*
 - [Sales Analysis III](./LeetCode/Easy/Sales%20Analysis%20III) - *Easy*
 - [Find the Index of the First Occurrence in a String](./LeetCode/Easy/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String) - *Easy*
