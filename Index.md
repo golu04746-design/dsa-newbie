@@ -49,4 +49,5 @@ All solved problems organized by pattern/category.
 - [Longest Subsequence With Non-Zero Bitwise XOR](./LeetCode/Medium/Longest%20Subsequence%20With%20Non-Zero%20Bitwise%20XOR) - *Medium*
 
 ## Linked List
+- [Middle of the Linked List](./LeetCode/Easy/Middle%20of%20the%20Linked%20List) - *Easy*
 - [Delete Node in a Linked List](./LeetCode/Medium/Delete%20Node%20in%20a%20Linked%20List) - *Medium*
