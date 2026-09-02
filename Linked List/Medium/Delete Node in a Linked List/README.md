@@ -8,8 +8,8 @@
 | **Solved On** | September 2, 2026 |
 | **Tags** | Linked List |
 | **Link** | [View Problem](https://leetcode.com/problems/delete-node-in-a-linked-list/) |
-| **Runtime** | 0 ms |
-| **Memory** | 8.2 MB |
+| **Runtime** | 9 ms |
+| **Memory** | 12.3 MB |
 
 ## Problem Description
 
