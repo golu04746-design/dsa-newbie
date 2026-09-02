@@ -47,3 +47,6 @@ All solved problems organized by pattern/category.
 - [Missing Number](./LeetCode/Easy/Missing%20Number) - *Easy*
 - [Add Binary](./LeetCode/Easy/Add%20Binary) - *Easy*
 - [Longest Subsequence With Non-Zero Bitwise XOR](./LeetCode/Medium/Longest%20Subsequence%20With%20Non-Zero%20Bitwise%20XOR) - *Medium*
+
+## Linked List
+- [Delete Node in a Linked List](./LeetCode/Medium/Delete%20Node%20in%20a%20Linked%20List) - *Medium*
