@@ -5,10 +5,10 @@
 | **Platform** | LeetCode |
 | **Difficulty** | Easy |
 | **Language** | mysql |
-| **Solved On** | August 27, 2026 |
+| **Solved On** | September 2, 2026 |
 | **Tags** | Database |
 | **Link** | [View Problem](https://leetcode.com/problems/sales-person/) |
-| **Runtime** | 1319 ms |
+| **Runtime** | 1363 ms |
 | **Memory** | 0B |
 
 ## Problem Description
