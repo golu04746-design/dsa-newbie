@@ -34,6 +34,7 @@ All solved problems organized by pattern/category.
 - [Maximize Sum Of Array After K Negations](./LeetCode/Easy/Maximize%20Sum%20Of%20Array%20After%20K%20Negations) - *Easy*
 
 ## Uncategorized
+- [Reverse Words in a String](./LeetCode/Medium/Reverse%20Words%20in%20a%20String) - *Medium*
 - [Smallest Stable Index I](./LeetCode/Easy/Smallest%20Stable%20Index%20I) - *Easy*
 - [Managers with at Least 5 Direct Reports](./LeetCode/Medium/Managers%20with%20at%20Least%205%20Direct%20Reports) - *Medium*
 - [Duplicate Emails](./LeetCode/Easy/Duplicate%20Emails) - *Easy*
