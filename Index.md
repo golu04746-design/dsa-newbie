@@ -27,6 +27,7 @@ All solved problems organized by pattern/category.
 - [Smallest Missing Integer Greater Than Sequential Prefix Sum](./LeetCode/Easy/Smallest%20Missing%20Integer%20Greater%20Than%20Sequential%20Prefix%20Sum) - *Easy*
 
 ## Greedy
+- [Container With Most Water](./LeetCode/Medium/Container%20With%20Most%20Water) - *Medium*
 - [Minimum Number of Arrows to Burst Balloons](./LeetCode/Medium/Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons) - *Medium*
 - [Removing Minimum and Maximum From Array](./LeetCode/Medium/Removing%20Minimum%20and%20Maximum%20From%20Array) - *Medium*
 - [Merge Intervals](./LeetCode/Medium/Merge%20Intervals) - *Medium*
