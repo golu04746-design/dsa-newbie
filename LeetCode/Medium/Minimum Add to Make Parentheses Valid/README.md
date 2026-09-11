@@ -5,11 +5,11 @@
 | **Platform** | LeetCode |
 | **Difficulty** | Medium |
 | **Language** | cpp |
-| **Solved On** | August 31, 2026 |
+| **Solved On** | September 11, 2026 |
 | **Tags** | String, Stack, Greedy, Bracket Sequences |
 | **Link** | [View Problem](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) |
 | **Runtime** | 0 ms |
-| **Memory** | 7.9 MB |
+| **Memory** | 9.7 MB |
 
 ## Problem Description
 
