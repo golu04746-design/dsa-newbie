@@ -36,6 +36,7 @@ All solved problems organized by pattern/category.
 - [Maximize Sum Of Array After K Negations](./LeetCode/Easy/Maximize%20Sum%20Of%20Array%20After%20K%20Negations) - *Easy*
 
 ## Uncategorized
+- [Ways to Make a Fair Array](./LeetCode/Medium/Ways%20to%20Make%20a%20Fair%20Array) - *Medium*
 - [Length of Last Word](./LeetCode/Easy/Length%20of%20Last%20Word) - *Easy*
 - [Reverse Words in a String](./LeetCode/Medium/Reverse%20Words%20in%20a%20String) - *Medium*
 - [Smallest Stable Index I](./LeetCode/Easy/Smallest%20Stable%20Index%20I) - *Easy*
